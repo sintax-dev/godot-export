@@ -3,6 +3,8 @@
 [resource]
 export/android/adb = "/home/runner/android-sdk/platform-tools/adb"
 export/android/debug_keystore= "/home/runner/work/autoclicker/autoclicker/debug.keystore"
+export/android/debug_keystore_user= "androiddebugkey"
+export/android/debug_keystore_pass= "android"
 export/android/jarsigner = "/usr/bin/jarsigner"
 export/android/custom_build_sdk_path = "/usr/local/lib/android/sdk"
 mono/builds/build_tool = 0
