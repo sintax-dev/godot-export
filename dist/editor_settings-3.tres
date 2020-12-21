@@ -1,7 +1,7 @@
 [gd_resource type="EditorSettings" format=2]
 
 [resource]
-export/android/adb = "/usr/bin/adb"
+export/android/adb = "/home/runner/android-sdk/platform-tools/adb"
 export/android/debug_keystore= "./debug.keystore"
 export/android/jarsigner = "/usr/bin/jarsigner"
 export/android/custom_build_sdk_path = "/usr/local/lib/android/sdk"
